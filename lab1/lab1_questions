@@ -1,0 +1,42 @@
+define machine learning:
+	learning from existing input and output data to predict precise output from new input data
+
+is sorting a good application:
+	no because depends on the type of data. only edgecases where it would be more efficient 
+	than normal sorting algs. 
+
+5 applications of machine learning:
+	everything...
+
+how can we evaluate machine learning algorithms:
+	by the delta they produce on the given data on average, least amout of errors
+
+what is an optimal function:
+	a function that produces no errors(minimizes error) on any given input
+
+what is a model? linear model? non-linear model:
+	
+
+what is prediction in machine learning:
+	the output of a function on a given set of inputs
+
+
+2:
+what could the rows correspond to:
+
+what could the columns correspond to:
+
+how can you plot the data:
+	using f1 and f2 as x and y axis and ploting the given data????
+
+Do you see a problem with the perfect function:
+	
+3:
+approach to qualify models:
+	add up the absolute of all errors and divide them by the number of datasets
+
+should you test on the data the model was trained on:
+	no because we need new data for testing otherwise we could just use the optimal function
+
+valid approach to train and evaluate:
+	use a datasplit and use one part for training and the other for testing. usually 66% to 33%
