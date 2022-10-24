@@ -1,0 +1,20 @@
+define machine learning:
+	learning from existing input and output data to predict precise output from new input data
+
+is sorting a good application:
+	no because its difficult to select the attributes to sort
+
+5 applications of machine learning:
+
+
+how can we evaluate machine learning algorithms:
+	by the delta they produce on the given data on average, least amout of errors
+
+what is an optimal function:
+	a function that produces no errors on any given input
+
+what is a model? linear model? non-linear model:
+	
+
+what is prediction in machine learning:
+	the output of a function on a given set of inputs
