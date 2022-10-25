@@ -1,0 +1,59 @@
+1.1
+b:
+10 features and 422 instances
+its a target for a regression task because none of the features can be classified. all are continous values
+yes it is numeric data. to work with the data it needs to be scaled and standadized
+
+
+1.2
+a:
+age : 
+(58, 10)
+sex : 
+(2, 10)
+bmi : 
+(163, 10)
+bp : 
+(100, 10)
+s1 : 
+(141, 10)
+s2 : 
+(302, 10)
+s3 : 
+(63, 10)
+s4 : 
+(66, 10)
+s5 : 
+(184, 10)
+s6 : 
+(56, 10)
+
+b:
+age   -3.639623e-16
+sex    1.309912e-16
+bmi   -8.013951e-16
+bp     1.289818e-16
+s1    -9.042540e-17
+s2     1.301121e-16
+s3    -4.563971e-16
+s4     3.863174e-16
+s5    -3.848103e-16
+s6    -3.398488e-16
+dtype: float64
+
+
+c:
+age    0.110727
+sex    0.050680
+bmi    0.170555
+bp     0.132044
+s1     0.153914
+s2     0.198788
+s3     0.181179
+s4     0.185234
+s5     0.133599
+s6     0.135612
+dtype: float64
+
+d:
+-0.0963280162542995
